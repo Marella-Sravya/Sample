@@ -1,1 +1,2 @@
-# Sample
+Sample Repository
+Welcome to Sample
